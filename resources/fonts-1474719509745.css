@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Regular.woff") format("woff"), 
+       url("../fonts/Roboto-Regular.ttf")  format("truetype"),
+       url("../fonts/Roboto-Regular.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/OpenSans-Light.woff") format("woff"), 
+       url("../fonts/OpenSans-Light.ttf")  format("truetype"),
+       url("../fonts/OpenSans-Light.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Bold.woff") format("woff"), 
+       url("../fonts/Roboto-Bold.ttf")  format("truetype"),
+       url("../fonts/Roboto-Bold.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "IOS9-Icons-Regular";
+  src: url("../fonts/IOS9-Icons-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/IOS9-Icons-Regular.woff") format("woff"), 
+       url("../fonts/IOS9-Icons-Regular.ttf")  format("truetype"),
+       url("../fonts/IOS9-Icons-Regular.svg#svgFontName") format("svg");
+}
